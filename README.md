@@ -1,50 +1,12 @@
-# 🤖 Large Language Models
+# 🧠 GPT-2 Pretrained Model (Custom)
 
-A project focused on leveraging Large Language Models (LLMs) to analyze, understand, and interact with GitHub repositories.
+This repository contains a custom pre-trained GPT-2 language model, designed and fine-tuned for advanced text generation tasks. It builds upon the original OpenAI GPT-2 architecture, with optional enhancements such as tokenizer updates, additional training data, and model refinements.
 
-This project demonstrates how different generative models work with there structure from basics with time more models will be added
+## 🚀 Features
 
----
-
-## 🗂️ Project Structure
-
-```
-LLM-s/
-
-├── data(MNISt)
-├── personal_chatbot/ (trained on alpaca style)
-├── *png
-├── GPT2 model.ipynb
-├── vision_transformenr.ipynb
-├──  bert.ipynb
-├──  nano.ipynb
-└── README.md
-```
-
----
+- ✅ Based on OpenAI's GPT-2 architecture    
+- 📝 Compatible tokenizer files  
+- 🔄 Ready for fine-tuning on downstream tasks  
+- 📦 Easy deployment for inference  
 
 
-## 📚 Prerequisites
-
-- Basic Python knowledge  
-- Understanding of Git/GitHub  
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository  
-2. Create a new branch  
-3. Submit a pull request  
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## ⭐ Support
-
-If you found this useful, consider giving it a ⭐ on GitHub!
