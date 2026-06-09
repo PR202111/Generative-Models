@@ -6,7 +6,7 @@ This repository is a personal collection of experiments and notebooks exploring 
 
 - Notebooks (top-level):
 	- `bert.ipynb`
-	- `GPT2 .ipynb` (note: filename contains a space)
+	- `GPT2.ipynb` 
 	- `lstm.ipynb`
 	- `rnn.ipynb`
 	- `Vision_transformer.ipynb`
